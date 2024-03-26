@@ -44,7 +44,7 @@
 ###
 
 <div align="center">
-  <img height="0" src="[https://drive.google.com/file/d/1kxGAxplBDCbOV_k7zHvZY7-8a5TuC6c2/view?usp=sharing](https://drive.google.com/file/d/19G_oIb--PfBADsIDjBt14244FSlCZxJX/view?usp=sharing)https://drive.google.com/file/d/19G_oIb--PfBADsIDjBt14244FSlCZxJX/view?usp=sharing"  />
+  <img height="10" src="[https://drive.google.com/file/d/1kxGAxplBDCbOV_k7zHvZY7-8a5TuC6c2/view?usp=sharing](https://drive.google.com/file/d/19G_oIb--PfBADsIDjBt14244FSlCZxJX/view?usp=sharing)https://drive.google.com/file/d/19G_oIb--PfBADsIDjBt14244FSlCZxJX/view?usp=sharing"  />
 </div>
 
 ###
