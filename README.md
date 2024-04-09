@@ -1,7 +1,7 @@
 <div  style="background-color:#111111; display:flex; flex-direction:column;" >
 <h1 align="left">🌟Enjoy your journey in my GitHUb🌟</h1>
-<h3 align="left">For better experience visit my protofolio <a style="background-color:#41db22;" href="">Click here</a></h3>
-###
+<h3 align="left">For better experience visit my protofolio <a height="30" width="12" style="background-color:#41db22;color:#ffff;" href="">Click here</a></h3>
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
 </div>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/baraa-mohamed-4b2034284/" target="_blank">
@@ -43,7 +43,7 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img height="10" src="[https://drive.google.com/file/d/1kxGAxplBDCbOV_k7zHvZY7-8a5TuC6c2/view?usp=sharing](https://drive.google.com/file/d/19G_oIb--PfBADsIDjBt14244FSlCZxJX/view?usp=sharing)https://drive.google.com/file/d/19G_oIb--PfBADsIDjBt14244FSlCZxJX/view?usp=sharing"  />
