@@ -1,5 +1,5 @@
-<div  style="background-color:#111111; display:flex; flex-direction:column;" >
-<h1 align="left">🌟Enjoy your journey in my GitHUb🌟</h1>
+
+<h1 align="left">🌟Enjoy your journey in my GitHub🌟</h1>
 <h3 align="left">For better experience visit my protofolio <a height="30" width="12" style="background-color:#41db22;color:#ffff;" href="">Click here</a></h3>
 
 
@@ -41,7 +41,6 @@
   <a href="01019622420" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-</div>
 
 
 
