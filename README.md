@@ -1,6 +1,6 @@
 
 
-![Description of GIF](./200.WEBP)
+![Description of GIF](./200.gif)
 
 ## Tech Stack
 
