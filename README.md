@@ -1,7 +1,7 @@
 
-<div  style="width: 100%; display: flex; align-items: center; justify-content: center;">
-  <img src="./jack.webp" alt="Description of GIF" width="50%" />
-</div>
+<p align="center">
+  <img src="./cat.webp" alt="Description of GIF" width="50%" />
+</p>
 
 ## Tech Stack
 
