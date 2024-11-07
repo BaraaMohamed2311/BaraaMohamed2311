@@ -1,6 +1,7 @@
 
 
-![Description of GIF](./200.webp)
+<img src="./200.webp" alt="Description of GIF" width="100%" />
+
 
 ## Tech Stack
 
