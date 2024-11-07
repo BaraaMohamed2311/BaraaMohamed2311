@@ -1,6 +1,6 @@
 
 
-<img src="./200.webp" alt="Description of GIF" width="100%" />
+<img src="./jack.webp" alt="Description of GIF" width="50%" />
 
 
 ## Tech Stack
