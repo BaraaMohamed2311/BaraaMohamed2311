@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./cat.webp" alt="Description of GIF" width="50%" />
+  <img src="./run.webp" alt="Description of GIF" width="70%" />
 </p>
 
 ## Tech Stack
