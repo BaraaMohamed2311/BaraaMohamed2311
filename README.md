@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="./help.webp" alt="Description of GIF" width="70%" />
-</p>
 
 ## Tech Stack
 
