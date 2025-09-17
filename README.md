@@ -1,7 +1,7 @@
 
 ## Connect with me
 <p >
-  <a href="[linkedin.com/in/baraa-mohamed-4b2034284](https://www.linkedin.com/in/baraa-mohamed-4b2034284)">
+  <a href="https://www.linkedin.com/in/baraa-mohamed-4b2034284">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
