@@ -19,7 +19,7 @@
 
 <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,jenkins,terraform,linux" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,jenkins,prometheus,grafana,terraform,linux" />
   </a>
 </p>
 
