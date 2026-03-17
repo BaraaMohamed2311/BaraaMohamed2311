@@ -23,7 +23,7 @@
   </a>
 </p>
 
-## General Skills
+## Tools
 
 <p >
   <a href="https://skillicons.dev">
